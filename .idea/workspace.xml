@@ -90,8 +90,12 @@
       <updated>1603441581443</updated>
       <workItem from="1603441583698" duration="1667000" />
       <workItem from="1603443401929" duration="577000" />
+<<<<<<< Updated upstream
       <workItem from="1603460036546" duration="725000" />
       <workItem from="1603460934592" duration="639000" />
+=======
+      <workItem from="1603460036546" duration="1024000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <created>1603442383751</created>
