@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Samsung_IT_School.iml" filepath="$PROJECT_DIR$/.idea/Samsung_IT_School.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Модуль 1 Основы языка Java/Модуль 1 Основы языка Java.iml" filepath="$PROJECT_DIR$/Модуль 1 Основы языка Java/Модуль 1 Основы языка Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Samsung_IT_School.iml" filepath="$PROJECT_DIR$/Samsung_IT_School.iml" />
     </modules>
   </component>
 </project>
